@@ -69,4 +69,5 @@ We will be adding additional notes about how to deploy this on a live system.
 
 ![After Project results and analysis](./Screenshot_20200216_084640.png)
 ![Feedback during lecture](./vlcsnap-2020-02-16-08h57m31s916.png)
->>>>>>> r1/master
+
+This project got 4th position in Hack36,2020 held at NIT Allahabad made by me and two of my Team Memebers
