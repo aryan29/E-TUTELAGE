@@ -3,7 +3,7 @@ dlib==19.19.0
 Flask==1.1.1
 imutils==0.5.3
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 numpy==1.18.1
 opencv-python==4.2.0.32
